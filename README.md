@@ -1,7 +1,6 @@
 # Hi, I'm Matias
 
 Programmer Analyst working on core banking systems (Cobis) with C#.NET, and Computer Science student at UADE.
-I like building small, polished tools that make everyday things nicer — from banking screens to the lights on my desk.
 
 Buenos Aires, Argentina ·  EU work eligible (Argentine & Italian citizenship)
 [marrassinimatias@gmail.com](mailto:marrassinimatias@gmail.com) ·  [LinkedIn](https://linkedin.com/in/matias-marra) ·  [CV (EN / ES)](https://github.com/MatiasMarrassini/CV)
