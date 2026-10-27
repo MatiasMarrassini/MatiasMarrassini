@@ -9,6 +9,7 @@ Buenos Aires, Argentina ·  EU work eligible (Argentine & Italian citizenship)
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Mapa-Correlativas**](https://github.com/MatiasMarrassini/Mapa-Correlativas) · [live demo](https://matiasmarrassini.github.io/Mapa-Correlativas/) | Interactive map of courses and prerequisites for multiple universities (FIUBA + UADE). Faculty selector, electives with their own prerequisites, auto-save in the browser and JSON export/import. Fork of FIUBA-Map, extended with tests. | TypeScript · React · Chakra UI · vis-network · Jest |
 | [**desk-control**](https://github.com/MatiasMarrassini/desk-control) | Windows desktop widget that controls a Xeno3 lightsaber over Bluetooth LE (reverse-engineered protocol) and WiZ smart bulbs over Wi-Fi. | Python · pywebview · BLE · UDP |
 | [**submarine-attack-java**](https://github.com/MatiasMarrassini/submarine-attack-java) | Naval battle game with a Swing GUI, levels, sound and an MVC architecture. | Java · Swing |
 | [**wordle-python**](https://github.com/MatiasMarrassini/wordle-python) | Console Wordle with user accounts, 1–2 players, rankings and persistent stats. | Python |
